@@ -18,7 +18,7 @@ In this project, I analyzed a customer dataset to identify key factors that lead
 2. Exploratory Data Analysis (EDA)
 3. Feature engineering
 4. Model selection and evaluation (Logistic Regression, Random Forest, etc.)
-5. Final model deployment (local demo or inference script)
+5. Final model deployment 
 
 ## 📈 Results
 - Final model accuracy: **83%**
